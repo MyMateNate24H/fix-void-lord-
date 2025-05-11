@@ -695,15 +695,13 @@ function Reanimate()
             { Blacklist = true, Name = "Left Leg", AlternativeName = "RightLowerArm", MeshId = "17269487439", TextureId = "17269487469", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0, -1, 0.)  * CFrameAngles(0, 0, 1.57), AlternativeCFrame = CFrameidentity },
 	        { Blacklist = true, Name = "Right Leg", AlternativeName = "LeftLowerArm", MeshId = "17269487439", TextureId = "17269487469", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0, -1, 0)  * CFrameAngles(0, 0, 1.57), AlternativeCFrame = CFrameidentity },
             -- Dragon Hands
-            { Blacklist = true, Name = "Left Leg", AlternativeName = "RightLowerLeg", MeshId = "119976677482426", TextureId = "127102957606543", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0, 0, 0)  * CFrameAngles(0, 2, 0), AlternativeCFrame = CFrameidentity },
-	        { Blacklist = true, Name = "Right Leg", AlternativeName = "LeftLowerLeg", MeshId = "117309169372490", TextureId = "127102957606543", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0, 0, 0)  * CFrameAngles(0, -2, 0), AlternativeCFrame = CFrameidentity },
+            { Blacklist = true, Name = "Left Leg", AlternativeName = "RightLowerLeg", MeshId = "138744606849121", TextureId = "136752500636691", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0, 0, 0)  * CFrameAngles(0, 2, 0), AlternativeCFrame = CFrameidentity },
+	        { Blacklist = true, Name = "Right Leg", AlternativeName = "LeftLowerLeg", MeshId = "138744606849121", TextureId = "136752500636691", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0, 0, 0)  * CFrameAngles(0, -2, 0), AlternativeCFrame = CFrameidentity },
 
             { Blacklist = true, Name = "Head", AlternativeName = "RightLowerArm", MeshId = "15117056802", TextureId = "15117061100", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0, 2.75, 0)  * CFrameAngles(0, 3.15, 0), AlternativeCFrame = CFrameidentity },
             { Blacklist = true, Name = "Torso", AlternativeName = "RightLowerArm", MeshId = "126825022897778", TextureId = "136752500636691", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0, 0, 0)  * CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },
             { Blacklist = true, Name = "Right Arm", AlternativeName = "RightLowerArm", MeshId = "138744606849121", TextureId = "83207562332062", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(1.35,-0.005, 0.)  * CFrameAngles(0, 0, 1.57), AlternativeCFrame = CFrameidentity },
             { Blacklist = true, Name = "Left Arm", AlternativeName = "LeftLowerArm", MeshId = "138744606849121", TextureId = "83207562332062", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(-1.35, -0.005, 0)  * CFrameAngles(0, 0, 1.57), AlternativeCFrame = CFrameidentity },
-            { Blacklist = true, Name = "Right Leg", AlternativeName = "RightLowerLeg", MeshId = "138744606849121", TextureId = "136752500636691	", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0.45, -1.85, 0)  * CFrameAngles(0, -1.57, -1.57), AlternativeCFrame = CFrameidentity },
-            { Blacklist = true, Name = "Left Leg", AlternativeName = "LeftLowerLeg", MeshId = "138744606849121", TextureId = "136752500636691", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(-0.45, -1.85, 0)  * CFrameAngles(0, -1.57, -1.57), AlternativeCFrame = CFrameidentity },
 
             },
 		Rig = {
